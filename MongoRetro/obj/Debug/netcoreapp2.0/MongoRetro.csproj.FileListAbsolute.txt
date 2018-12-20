@@ -1,0 +1,11 @@
+c:\users\hp\source\repos\MongoRetro\MongoRetro\bin\Debug\netcoreapp2.0\MongoRetro.deps.json
+c:\users\hp\source\repos\MongoRetro\MongoRetro\bin\Debug\netcoreapp2.0\MongoRetro.runtimeconfig.json
+c:\users\hp\source\repos\MongoRetro\MongoRetro\bin\Debug\netcoreapp2.0\MongoRetro.runtimeconfig.dev.json
+c:\users\hp\source\repos\MongoRetro\MongoRetro\bin\Debug\netcoreapp2.0\MongoRetro.dll
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.csprojAssemblyReference.cache
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.AssemblyInfoInputs.cache
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.AssemblyInfo.cs
+c:\users\hp\source\repos\MongoRetro\MongoRetro\bin\Debug\netcoreapp2.0\MongoRetro.pdb
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.dll
+c:\users\hp\source\repos\MongoRetro\MongoRetro\obj\Debug\netcoreapp2.0\MongoRetro.pdb
